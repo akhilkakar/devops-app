@@ -15,3 +15,5 @@ SNAPE'S PATRONUS
      ||  \\       |||
      )\   )\      )||
      `"   `"      `""
+
+     I'm trying out git merges
