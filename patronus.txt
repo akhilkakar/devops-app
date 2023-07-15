@@ -19,3 +19,4 @@ SNAPE'S PATRONUS
      I'm trying out git merges
 
      New line added in main branch file
+     Second new line added in main branch file
