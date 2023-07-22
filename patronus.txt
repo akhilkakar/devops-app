@@ -20,3 +20,4 @@ SNAPE'S PATRONUS
 
      New line added in main branch file
      Second new line added in main branch file
+     Changes made on the feature branch
